@@ -26,7 +26,7 @@
 Here “invariance” is in parameter space, but the weights or values themselves are dynamic 
 
 - $(y, x)$
-- y(t\mid x) + \epsilon$
+- $y(t\mid x) + \epsilon$
 - $\frac{dy_x}{dt}$
 - ${dy_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2y_x}{dt^2}}$
 - $\int y_x \,dt + \epsilon_x \,t + C_x$
@@ -44,7 +44,7 @@ Why did Bach compose his Sanctus the way he did in the B minor mass? It’s got 
 I’m offering more content to help you structure your response: does the Catholic Mass & common prayer book align ? They’re pentadic… 
 
 
-<iframe width="360" height="2s15"
+<iframe width="360" height="215"
     src="https://www.youtube.com/embed/O1CTWJ6RiOI?start=01"
     title="Bad and Boujee ft. Lil Uzi Vert at 14s"
     frameborder="0"
