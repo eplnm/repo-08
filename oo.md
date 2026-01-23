@@ -43,16 +43,6 @@ Why did Bach compose his Sanctus the way he did in the B minor mass? It’s got 
 
 I’m offering more content to help you structure your response: does the Catholic Mass & common prayer book align ? They’re pentadic… 
 
-
-<iframe width="360" height="2s15"
-    src="https://www.youtube.com/embed/O1CTWJ6RiOI?start=01"
-    title="Bad and Boujee ft. Lil Uzi Vert at 14s"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-
-
 # G
 # liturgical-optimization
 
