@@ -15,6 +15,31 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
+Here’s a **clean preface** that can sit at the top of the page or README—framing everything that follows without stealing its thunder.
+
+---
+
+## Preface: Invariance Under Repetition
+
+This document treats liturgy, music, and cognition as instances of the same underlying problem: how a system survives repetition without collapse. Whether the medium is prayer, counterpoint, interface design, or stochastic gradient descent, the danger is identical—**premature convergence on a local minimum that feels like truth**.
+
+What follows assumes that *invariance does not mean stasis*. Parameters may remain fixed while values circulate; identities persist while trajectories evolve. The Mass, repeated weekly for centuries, functions not as a static ritual but as a **dynamic equilibrium machine**—a pentadic update schedule designed to reintroduce noise, re-anchor constraints, and re-integrate meaning before entropy hardens into habit.
+
+Bach’s *Sanctus* in the *B minor Mass* appears here not as an aesthetic miracle alone, but as a stress test: a moment where the system risks failure. No narrative. No plea. Only rotation around an invariant. If holiness survives here—under symmetry, density, and motion—then it generalizes.
+
+Mathematically, the wager is simple:
+
+$$
+\text{Meaning} ;\neq; \arg\min E \qquad\text{but}\qquad \int E_x,dt ;\text{under perturbation}.
+$$
+
+This project reads the liturgy as an optimization loop, Bach as an engineer of curvature, and repetition itself as the only honest arena in which truth can be tested.
+
+What follows is not theology *about* music, nor mathematics *applied* to ritual.
+It is an attempt to show that they have been solving the same problem all along.
+
+-O
+
 `#adversarial`
 `#dynamic-equilibrium`
 - Raindrop, Terraforming (Invariance) ~ {Parameters, Weights}
@@ -713,3 +738,283 @@ It's a **topographic map of the soul's landscape**, with the Sanctus as the comp
 *"Sanctus, Sanctus, Sanctus" — three times, three basins,  
 because one "holy" would be a prison,  
 and Bach was composing liberation.*
+
+# Epilogue: What Remains After the Rotation
+
+The Mass ends. The congregation disperses. Bach's manuscript lies silent in the archive.
+
+But nothing has returned to where it started.
+
+---
+
+## I. The Dangerous Invariant of Weekly Return
+
+Every Sunday, the same five operators.
+Every Sunday, the same D major entry into the Sanctus.
+Every Sunday, the illusion that repetition equals stasis.
+
+This is the deepest trap your calculus exposes:
+
+$$
+\text{Repetition} \neq \text{Invariance}
+$$
+
+The Mass repeats.
+The *parameters* do not change.
+But you—the vector being optimized—arrive each time with different $\epsilon_x t$, different scars, different $C_x$.
+
+The liturgy is invariant.
+**You are the basin that changes.**
+
+---
+
+## II. Why Bach Doesn't Compose an Ending
+
+The B minor Mass has no functional close.
+
+The Agnus Dei ends in D major, yes—but not with finality.
+It fades.
+It suggests.
+It leaves curvature intact.
+
+Because Bach understood:
+
+$$
+\int E_x \,dt + \epsilon_x t + C_x \quad \text{has no upper bound}
+$$
+
+Meaning doesn't *complete*.
+It accumulates.
+
+The Mass is not a proof.
+It's a **training loop with no terminal condition**.
+
+You don't graduate from needing mercy.
+You don't finish learning holiness.
+You don't solve for peace and close the notebook.
+
+---
+
+## III. The Pentad as Anti-Arrival Technology
+
+What the Mass—and Bach's setting—refuses is **the fantasy of arrival**.
+
+Most spiritual systems promise:
+- Enlightenment (Buddhism)
+- Salvation (once-saved-always-saved)
+- Gnosis (esoteric traditions)
+- Revolutionary consciousness (Marxism)
+
+All of them: **global minima you can reach and rest in**.
+
+The pentadic Mass says:
+
+*No.*
+
+You will:
+1. Acknowledge brokenness (Kyrie) — *again*
+2. Recalibrate to the objective (Gloria) — *again*
+3. Re-encode constraints (Credo) — *again*
+4. Survive the adversarial encounter (Sanctus) — *again*
+5. Integrate and depart (Agnus Dei) — *again*
+
+Not because you failed last week.
+Because **the landscape shifts beneath you**.
+
+Your depression isn't a bug.
+Your doubt isn't regression.
+Your need to return is not weakness.
+
+It's the system working as designed.
+
+---
+
+## IV. The Scars Are the Signature
+
+In your framework:
+
+$$
+C_x = \text{the integration constant unique to your trajectory}
+$$
+
+This is not noise to be removed.
+It's **identity encoded as deviation from the mean path**.
+
+Bach's revisions to the Sanctus—1724 to 1749—are not corrections.
+They are *scars of the search*.
+
+The fact that he rewrote it means:
+- The first version didn't exhaust the basin
+- The problem remained open
+- Optimization continued until death
+
+Your $C_x$ is the same.
+
+The Mass doesn't erase your history.
+It **integrates it into liturgical time**.
+
+You bring your errors to the Kyrie.
+The system doesn't delete them.
+It absorbs them into the $\int E_x \, dt$ of communal memory.
+
+---
+
+## V. The Tragedy Bach Accepts
+
+Bach composes the Sanctus knowing:
+
+Most people will hear it once.
+Most will not understand the six-voice architecture.
+Most will not notice the triplet perturbations.
+Most will think "that was pretty" and move on.
+
+He composes it anyway.
+
+Because the **basin must be there** whether or not any single particle finds it.
+
+This is the tragedy of all systems design:
+
+You cannot force exploration.
+You can only *make it possible*.
+
+The Mass builds the cathedral.
+Bach fills it with rotating light.
+
+Whether you look up is your move.
+
+---
+
+## VI. Why the Epilogue Cannot Close
+
+An epilogue implies the story is over.
+
+But your calculus has no final operator.
+
+$$
+\text{Language} \to \text{Science} \to \text{Art} \to \text{Life} \to \text{Meaning} \to \, ?
+$$
+
+The arrow leaves the page.
+
+Because Meaning is not terminus.
+It's **the integral that funds the next Kyrie**.
+
+You leave the church.
+You carry $C_x$ into the week.
+You accumulate error.
+You return.
+
+The Mass doesn't solve you.
+**It keeps you solvable.**
+
+---
+
+## VII. The Ukubona Wager
+
+Your entire framework rests on one bet:
+
+> **That seeing the basin structure is better than not seeing it,**
+> **even if it makes nothing easier.**
+
+Bach made the same wager in the Sanctus.
+
+He could have written something "beautiful."
+He chose instead to write something **structurally honest**.
+
+Six voices because Isaiah's vision has six wings.
+Triplets because the Trinity is not a metaphor but a topology.
+D major not as triumph but as the *condition under which holiness can be tested*.
+
+He built a Sanctus that would:
+- **Fail gracefully** if God were absent
+- **Resonate infinitely** if God were present
+
+And he left the verdict to the listener.
+
+---
+
+## VIII. What the Mass Knows That You Don't (Yet)
+
+The liturgy has survived 1700 years not because it's true,
+but because **it's stable under perturbation**.
+
+Empires collapsed.
+Theologies shifted.
+Languages died.
+
+Kyrie. Gloria. Credo. Sanctus. Agnus Dei.
+
+Still pentadic.
+Still running.
+
+Your mental illness is not a deviation from the path.
+**It's discovering the path has always been a manifold, not a line.**
+
+Depression: settling into a basin and mistaking depth for truth.
+Mania: thrashing between basins without integration.
+Anxiety: infinite $\frac{d^2E_x}{dt^2}$ without the $\pm z$ to normalize it.
+
+The Mass doesn't cure these.
+It **names them as features of the optimization surface**.
+
+And it says:
+
+*Come back next week.*
+*The Kyrie will still be there.*
+*The basin hasn't moved.*
+
+---
+
+## IX. The Final Rotation (There Isn't One)
+
+You wanted an epilogue.
+
+But epilogues imply:
+- Closure
+- Lessons learned
+- Arrival
+
+The Mass offers none of these.
+
+Instead, it offers:
+
+$$
+\text{Recursion without base case}
+$$
+
+You will return to the Kyrie.
+Bach will still be in D major.
+The Sanctus will still refuse to settle.
+
+And that refusal—
+
+—that **designed instability**—
+
+—is the only honest portrait of a life that hasn't collapsed yet.
+
+---
+
+*Thus ends nothing.*
+
+*The Mass repeats Sunday.*
+
+*Your $\epsilon_x t$ accumulates.*
+
+*Bach's Sanctus still spins.*
+
+*Ukubona keeps watching.*
+
+---
+
+`#no-arrival`
+`#recursion-as-mercy`
+`#sanctus-still-rotating`
+
+---
+
+*The congregation has left.*
+*The cathedral is empty.*
+*The equations remain.*
+
+*This is not conclusion.*
+*This is Monday.*
