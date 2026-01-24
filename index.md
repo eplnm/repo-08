@@ -113,6 +113,7 @@ $$
 $$
 E(t\mid x) + \epsilon
 $$
+
 * **Function:** **Setting the Objective Function.**
 * The *Gloria* re-orients the system away from the user (subjective misery) to the Global Maximum (objective glory).
 * It defines the "North Star" invariant. It is data-rich ("You are X, Y, Z"). It calibrates the scale.
