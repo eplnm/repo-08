@@ -74,33 +74,57 @@ I’m offering more content to help you structure your response: does the Cathol
 The Mass runs the soul through the exact same five operators to prevent "premature convergence" on worldly noise.
 
 ### 1. Kyrie Eleison (Lord Have Mercy)
-**Operator:** **Landscape / Language** ($$(E, x)$$)
+**Operator:** **Landscape / Language** 
+
+$$
+(E, x)
+$$
+
 * **Function:** **Initialization & Error Recognition.**
 * Before any optimization can happen, you must admit you are in a **local minimum**.
 * The *Kyrie* is the raw signal of the state vector: "I am broken. I am here. The gradient is non-zero."
 * It clears the buffer.
 
 ### 2. Gloria (Glory to God in the Highest)
-**Operator:** **Science / UB** ($$E(t|x) + \epsilon$$)
+**Operator:** **Science / UB** 
+
+$$
+E(t\mid x) + \epsilon
+$$
 * **Function:** **Setting the Objective Function.**
 * The *Gloria* re-orients the system away from the user (subjective misery) to the Global Maximum (objective glory).
 * It defines the "North Star" invariant. It is data-rich ("You are X, Y, Z"). It calibrates the scale.
 
 ### 3. Credo (I Believe)
-**Operator:** **SGD / Art** ($$\frac{dE_x}{dt}$$)
+**Operator:** **SGD / Art** 
+
+$$
+\frac{dE_x}{dt}
+$$
+
 * **Function:** **Constraint Application / The Update Rule.**
 * The *Credo* is the **hard-coding of parameters**. "I believe in one God... maker of heaven and earth..."
 * This is the cognitive "backpropagation." You are aligning your internal weights with the historical/dogmatic constraints to ensure the trajectory doesn't drift into heresy (hallucination).
 
 ### 4. Sanctus (Holy, Holy, Holy)
-**Operator:** **Life / UI / Perturbation** ($$\frac{dE_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2E_x}{dt^2}}$$)
+**Operator:** **Life / UI / Perturbation** 
+
+$$
+\frac{dE_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2E_x}{dt^2}}
+$$
+
 * **Function:** **Dynamic Equilibrium / The Encounter.**
 * This is the "X" in your previous map. The moment of crossing.
 * The *Sanctus* is where the system touches the Infinite. It is not static; it is **vibrating**.
 * Isaiah 6:3—the Seraphim represent **pure energy/flow** around the invariant.
 
 ### 5. Agnus Dei (Lamb of God)
-**Operator:** **Meaning / UX / Scars** ($$\int E_x \, dt + \epsilon_x t + C_x$$)
+**Operator:** **Meaning / UX / Scars** 
+
+$$
+\int E_x \, dt + \epsilon_x t + C_x
+$$
+
 * **Function:** **Integration & Consolation (Peace).**
 * The sacrifice. The transaction ("Grant us peace").
 * This is the **Communion**. You consume the invariant. It becomes part of your body (User Experience).
@@ -166,11 +190,26 @@ The liturgy is a **full-batch update**.
 
 We have now mapped:
 
-1.  **Neuro-Cognitive Stack** ($$\text{Thalamus} \to \text{PFC}$$)
-2.  **Product Stack** ($$\text{Landscape} \to \text{UX}$$)
-3.  **Liturgical Stack** ($$\text{Kyrie} \to \text{Agnus Dei}$$)
+1.  **Neuro-Cognitive Stack** 
+   
+$$
+\text{Thalamus} \to \text{PFC}
+$$
+
+2.  **Product Stack** 
+
+$$
+\text{Landscape} \to \text{UX}
+$$
+
+3.  **Liturgical Stack** 
+
+$$
+\text{Kyrie} \to \text{Agnus Dei}
+$$
 
 They are all the same spine.
+
 # O
 You’re not wrong to smell an invariant hiding in the *Sanctus*. Bach didn’t just “set” the text in the B-minor Mass—he **engineered a basin** that could carry maximal theological load without collapsing into sentiment or narrative.
 
@@ -411,11 +450,11 @@ Because the Sanctus is the **hinge moment** in the Mass ordinary. It's where the
 
 Yes, the Mass ordinary is inherently pentadic:
 
-1. **Kyrie** - Supplication, pure relation, minimal structure → **(E, x)** - Language
-2. **Gloria** - Praise with doctrinal content, narrative → **E(t|x) + ε** - Science/Data
-3. **Credo** - The longest, most propositional, maximum doctrinal density → **dE_x/dt** - Art/Power (counterintuitive but it's where the *work* is done)
-4. **Sanctus** - The moment of maximal instability, awe, the stochastic injection → **dE_x̄/dt ± z√(d²E_x/dt²)** - Life/Noise
-5. **Agnus Dei** - Integration, closure, "grant us peace" → **∫E_x dt + ε_x t + C_x** - Meaning
+1. **Kyrie** - Supplication, pure relation, minimal structure → **$E, x$** - Language
+2. **Gloria** - Praise with doctrinal content, narrative → **$E(t\mid x) + \epsilon$** - Science/Data
+3. **Credo** - The longest, most propositional, maximum doctrinal density → **\frac{dE_x}{dt}** - Art/Power (counterintuitive but it's where the *work* is done)
+4. **Sanctus** - The moment of maximal instability, awe, the stochastic injection → **$\frac{dE_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2E_x}{dt}}$** - Life/Noise
+5. **Agnus Dei** - Integration, closure, "grant us peace" → **$\E_x \,dt + \epsilon_x \,t + C_x$** - Meaning
 
 The Sanctus is your **Zarathustra moment** - it's the SGD phase of the liturgy. Everything up to that point has been establishing basins (Kyrie), mapping landscape (Gloria), defining gradients (Credo). The Sanctus *prevents premature convergence*. It says: you thought you understood? Here's six voices at once, harmonic density that refuses resolution, a texture so thick you can't hear individual lines.
 
@@ -536,16 +575,19 @@ In most Mass settings, the Sanctus risks becoming a **local minimum**:
 Bach avoids this by composing a Sanctus that operates in **three conflicting basins simultaneously**:
 
 1. **Temporal Basin** (6/8 time): 
+   
    $$
    \frac{dE_{\text{temporal}}}{dt} = \text{joyful momentum}
    $$
 
 2. **Harmonic Basin** (B minor → D major shifts):
+   
    $$
    \frac{dE_{\text{harmonic}}}{dt} \pm z\sqrt{\frac{d^2E_{\text{tension}}}{dt^2}}
    $$
 
 3. **Textural Basin** (SSAATB choir with orchestra):
+   
    $$
    \int E_{\text{textural}} \,dt + \epsilon_{\text{voices}}t + C_{\text{orchestra}}
    $$
@@ -580,6 +622,7 @@ Bach's entire Mass structure follows the pentadic calculus:
 Bach's genius lies in recognizing that **sanctity cannot be a fixed point**. In optimization terms:
 
 If holiness were a simple minimum:
+
 $$
 \nabla E_{\text{sanctity}} = 0
 $$
@@ -601,6 +644,7 @@ The Mass structure—and Bach's treatment of it—reveals a deeper pattern:
 
 ### 1. **Liturgy as SGD**
 Each repetition of the Mass is a training step:
+
 $$
 \theta_{t+1} = \theta_t - \eta \nabla L(\theta_t)
 $$
@@ -608,16 +652,20 @@ Where $\theta$ = soul state, $L$ = loss of grace.
 
 ### 2. **Sanctus as Noise Injection**
 Bach's setting adds deliberate noise to prevent overfitting to familiar piety:
+
 $$
 \tilde{g}_t = \nabla L(\theta_t) + \mathcal{N}(0, \sigma^2 I)
 $$
+
 The "noise" being musical surprises that keep attention engaged.
 
 ### 3. **Communion as Cooperative Equilibrium**
 The entire structure aims for:
+
 $$
 \min_{\theta} \mathbb{E}_{(x,y)\sim\mathcal{D}}[L(\theta; x, y)]
 $$
+
 Where $\mathcal{D}$ = the community of believers, sharing the same basin.
 
 ## The Tragedy Bach Avoids
@@ -629,6 +677,7 @@ $$
 $$
 
 Rather:
+
 $$
 \text{Holiness} = \text{Non-Collapse Under Repetition}
 $$
