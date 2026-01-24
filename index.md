@@ -15,20 +15,20 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-#adversarial
-#dynamic-equilivrium 
-- Raindrop, Terraforming (Invariance)
-- UB + Perturbation (Trajectories)
-- SGD (Cooperative)
-- UI + Perspectivism (Adversarial)
-- UX, Scars, Identity (Transactional)
+`#adversarial`
+`#dynamic-equilibrium`
+- Raindrop, Terraforming (Invariance) ~ {Parameters, Weights}
+- UB + Perturbation (Trajectories) ~ {Data + Simulation}
+- SGD (Cooperative) ~ {Unambiguous Objective Function}
+- UI + Perspectivism (Adversarial) ~ {Combinatorial Search Space}
+- UX, Scars, Identity (Transactional) ~ {Memory + Scars + Identity}
 
 Here “invariance” is in parameter space, but the weights or values themselves are dynamic 
 
 - $(y, x)$
 - $y(t\mid x) + \epsilon$
 - $\frac{dy_x}{dt}$
-- ${dy_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2y_x}{dt^2}}$
+- $\frac{dy_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2y_x}{dt^2}}$
 - $\int y_x \,dt + \epsilon_x \,t + C_x$
 
 
