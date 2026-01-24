@@ -47,7 +47,7 @@ It is an attempt to show that they have been solving the same problem all along.
 
 Here “invariance” is in parameter space, but the weights or values themselves are dynamic 
 
-- $(y, x)$
+- $(x, y)$
 - $y(t\mid x) + \epsilon$
 - $\frac{dy_x}{dt}$
 - $\frac{dy_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2y_x}{dt^2}}$
