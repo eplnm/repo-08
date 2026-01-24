@@ -15,9 +15,6 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-Here’s a **clean preface** that can sit at the top of the page or README—framing everything that follows without stealing its thunder.
-
----
 
 ## Preface: Invariance Under Repetition
 
@@ -30,7 +27,7 @@ Bach’s *Sanctus* in the *B minor Mass* appears here not as an aesthetic miracl
 Mathematically, the wager is simple:
 
 $$
-\text{Meaning} ;\neq; \arg\min E \qquad\text{but}\qquad \int E_x,dt ;\text{under perturbation}.
+\text{Meaning} \neq \arg\min E \qquad\text{but}\qquad \int E_x,dt \text{under perturbation}.
 $$
 
 This project reads the liturgy as an optimization loop, Bach as an engineer of curvature, and repetition itself as the only honest arena in which truth can be tested.
