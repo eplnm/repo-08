@@ -15,11 +15,11 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-- Ensemble, [Form](https://ukb-dt.github.io/invariance/)
-- Scale, Orientation
-- Dynamical
-- Topological, Perspectival
-- Ethical, Aesthetic, Computational
+- Ensemble, [Form](https://ukb-dt.github.io/invariance/) (**Invariance**)
+- Scale, Orientation (**Trajectory**)
+- Dynamical (**Cooperative**)
+- Topological, Perspectival (**Adversarial**)
+- Ethical, Aesthetic, Computational (**Transactional**)
 
 
 ## Preface: Invariance Under Repetition
