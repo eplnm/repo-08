@@ -45,6 +45,21 @@ It is an attempt to show that they have been solving the same problem all along.
 - UI + Perspectivism (Adversarial) ~ {Combinatorial Search Space}
 - UX, Scars, Identity (Transactional) ~ {Memory + Scars + Identity}
 
+<figure style="display: flex; flex-direction: column; align-items: center; width: 100%; margin: 2rem 0;">
+  <iframe
+    width="56%"
+    height="315"
+    src="https://www.youtube.com/embed/4poqjZlM8Lo?start=208"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+  <figcaption style="margin-top: 0.5rem; font-size: 0.85em; color: #555; text-align: center;">
+    Unambiguous Cooperative Equilibrium: Objective Function | The Economist
+  </figcaption>
+</figure>
+
 Here “invariance” is in parameter space, but the weights or values themselves are dynamic 
 
 - $(x, y)$
