@@ -51,7 +51,7 @@ It is an attempt to show that they have been solving the same problem all along.
 - UI + Perspectivism ([Adversarial](https://eplnm.github.io/marx-04/)) ~ {Combinatorial Search Space}
 - UX, Scars, Identity ([Transactional](https://eplnm.github.io/marx-05/)) ~ {Memory + Scars + Identity}
 
-<figure style="display: flex; flex-direction: column; align-items: center; width: 100%; margin: 2rem 0;">
+<figure style="display: flex; flex-direction: column; align-items: left; width: 100%; margin: 2rem 0;">
   <iframe
     width="56%"
     height="315"
@@ -61,7 +61,7 @@ It is an attempt to show that they have been solving the same problem all along.
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe>
-  <figcaption style="margin-top: 0.5rem; font-size: 0.85em; color: #555; text-align: center;">
+  <figcaption style="margin-top: 0.5rem; font-size: 0.85em; color: #555; text-align: left;">
     Unambiguous Cooperative Equilibrium: Objective Function | The Economist
   </figcaption>
 </figure>
@@ -118,6 +118,15 @@ The Mass runs the soul through the exact same five operators to prevent "prematu
 
 ### 1. Kyrie Eleison (Lord Have Mercy)
 **Operator:** **Landscape / Language** 
+
+
+<iframe width="360" height="215"
+    src="https://www.youtube.com/embed/DBv3kdF3KB0?start=01"
+    title="Bad and Boujee ft. Lil Uzi Vert at 14s"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 
 $$
 (E, x)
