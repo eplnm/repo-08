@@ -15,6 +15,12 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
+- Ensemble, [Form](https://ukb-dt.github.io/invariance/)
+- Scale, Orientation
+- Dynamical
+- Topological, Perspectival
+- Ethical, Aesthetic, Computational
+
 
 ## Preface: Invariance Under Repetition
 
@@ -39,11 +45,11 @@ It is an attempt to show that they have been solving the same problem all along.
 
 `#adversarial`
 `#dynamic-equilibrium`
-- Raindrop, Terraforming (Invariance) ~ {Parameters, Weights}
-- UB + Perturbation (Trajectories) ~ {Data + Simulation}
-- SGD (Cooperative) ~ {Unambiguous Objective Function}
-- UI + Perspectivism (Adversarial) ~ {Combinatorial Search Space}
-- UX, Scars, Identity (Transactional) ~ {Memory + Scars + Identity}
+- Raindrop, Terraforming ([Invariance](https://eplnm.github.io/marx-01/)) ~ {Parameters, Weights}
+- UB + Perturbation ([Trajectories](https://eplnm.github.io/marx-02/)) ~ {Data + Simulation}
+- SGD ([Cooperative](https://eplnm.github.io/marx-03/)) ~ {Unambiguous Objective Function}
+- UI + Perspectivism ([Adversarial](https://eplnm.github.io/marx-04/)) ~ {Combinatorial Search Space}
+- UX, Scars, Identity ([Transactional](https://eplnm.github.io/marx-05/)) ~ {Memory + Scars + Identity}
 
 <figure style="display: flex; flex-direction: column; align-items: center; width: 100%; margin: 2rem 0;">
   <iframe
@@ -60,7 +66,7 @@ It is an attempt to show that they have been solving the same problem all along.
   </figcaption>
 </figure>
 
-Here “invariance” is in parameter space, but the weights or values themselves are dynamic 
+Here “[invariance](https://ukb-dt.github.io/invariance/)” is in [parameter space](https://eplnm.github.io/marx-00/), but the weights or values themselves are dynamic 
 
 - $(x, y)$
 - $y(t\mid x) + \epsilon$
