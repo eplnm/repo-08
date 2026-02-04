@@ -18,7 +18,7 @@
 - Ensemble, [Form](https://ukb-dt.github.io/invariance/) (**Invariance**)
 - Scale, Orientation (**Trajectory**)
 - Dynamical (**Cooperative**)
-- Topological, Perspectival (**Adversarial**)
+- Topological, Perspectival (**[Adversarial](https://cryo-pyro.github.io/cartography-03/)**)
 - Ethical, Aesthetic, Computational (**Transactional**)
 
 
